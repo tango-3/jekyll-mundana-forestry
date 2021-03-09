@@ -17,3 +17,22 @@ fields:
 - type: text
   name: description
   label: description
+- name: this_is_a_drop_down
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: this is a drop down
+  description: this is a test dropdown for stuff
+- name: color_picker
+  type: color
+  label: color picker
+  config:
+    required: false
+    color_format: Hex
