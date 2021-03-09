@@ -1,0 +1,19 @@
+---
+label: random page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: pagination
+  label: pagination
+- type: boolean
+  name: enabled
+  label: enabled
+- type: text
+  name: description
+  label: description
