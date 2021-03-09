@@ -22,4 +22,5 @@ fields:
   label: image
 pages:
 - _posts/2019-01-18-customer-service.md
+- draft-page.md
 - thi-is-a-test-title.md
